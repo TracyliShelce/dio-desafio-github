@@ -10,5 +10,11 @@ Desafio: Primeiro Repositório no GitHub - Dio
 ## Qual a diferença entre o Git é o GitHub??
 Git é a ferramenta que Linus criou. Se você quer utilizá-la, pode fazer tudo sozinho e hospedar um repositório principal para ter seu software versionado. Isso pode ser uma tarefa complicada. Algumas empresas, como Github, Bitbucket e Gitlab, já oferecem esse serviço, controlam o acesso dos usuários e oferecem ferramentas extras de gerenciamento de projetos. O Github é uma opção para que você use o Git de maneira mais simples, mas não é obrigatório, apesar de extremamente usado.
 
-## Link do Curso de Introdução ao Git e GitHub
+## Fonte dos conceitos
+https://www.alura.com.br/artigos/o-que-e-git-github
+
+## Comandos Git mais utilizados e como configurar
+https://blog.geekhunter.com.br/comandos-git-mais-utilizados/
+
+## Link do Curso de Introdução ao Git e GitHub na DIO
 https://web.dio.me/course/introducao-ao-git-e-ao-github/learning/75b9fe49-6ed4-4480-83a7-7e37fc356aa9/?back=/home
